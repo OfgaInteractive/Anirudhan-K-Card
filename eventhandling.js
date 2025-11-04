@@ -88,17 +88,17 @@ function log(msg) {
     // Buttons
     Buttons.callBtn.addEventListener("click", () => {
       //log("Call clicked");
-      window.location.href = "tel:7358063881";
+      window.location.href = "tel:8248424811";
     });
   
     Buttons.mailBtn.addEventListener("click", () => {
       //log("Mail clicked");
-      window.location.href = "mailto:contact@worlyventure.com";
+      window.location.href = "mailto:business@ofgainteractive.in";
     });
   
     Buttons.siteBtn.addEventListener("click", () => {
       //log("Site clicked");
-      window.location.href = "https://worleyventure.com";
+      window.location.href = "https://ofgainteractive.in/";
     });
   
     Buttons.pinBtn.addEventListener("click", () => {
