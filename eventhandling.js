@@ -53,7 +53,7 @@ function log(msg) {
         //log("Scale complete → Moving left...");
         logoModel.setAttribute("animation__move", {
           property: "position",
-          to: "-1 0 0",
+          to: "0 1 0",
           dur: 1000,
           easing: "easeInOutSine"
         });
